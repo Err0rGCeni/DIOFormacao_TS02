@@ -2,7 +2,7 @@
 
 `npx create-react-app my-app --template typescript`
 
-## Introdução ao React com TypeScript (#03)
+## Introdução ao React com TypeScript (#02)
 
 - Chakra UI;
 - Testes Automatizados:
@@ -11,7 +11,7 @@
   - e2e (ponta a ponta): São testes que cobrem todo o fluxo do usuário na aplicação, ajudando a garantir que a aplicação funcione corretamente do ponto de vista do usuário.
 - Test Driven Development: O Test Driven Development (TDD) é uma abordagem de desenvolvimento de software que coloca um foco significativo na escrita de testes automatizados antes da implementação do código real. O processo do TDD segue um ciclo iterativo que envolve a criação dos testes, a implementação mínima necessária para fazer os testes passarem e, em seguida, a refatoração do código para melhorar sua qualidade.
 
-## Conceitos Avançados de React com TypeScript (#04)
+## Conceitos Avançados de React com TypeScript (#03)
 
 ### Rotas
 
